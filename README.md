@@ -2,7 +2,7 @@
 This will remove the restrictions placed on executables by Eazfuscator.NET's trial version.
 
 # Support
-- Eazfuscator versions 4.9 - Lastest
+Eazfuscator versions 4.9 - Lastest
 
 # Usage
 Drag your protected file into EazRemoveTrial.exe
